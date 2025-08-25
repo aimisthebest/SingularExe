@@ -15,7 +15,7 @@ Este repositório **não contém código-fonte**. Ele existe apenas para hospeda
 ## Como utilizar
 
 1. Adquira uma key válida para o Singular.  
-2. Use o launcher oficial (baixado através do comando /instalock no discord), que baixará sempre a ultima versão do app.  
+2. Use o launcher oficial, baixado através do comando /instalock no discord.  
 
 ---
 
