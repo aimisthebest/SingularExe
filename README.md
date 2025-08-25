@@ -1,6 +1,6 @@
 # Instalock Valorant – Releases
 
-Este repositório **não contém código-fonte**. Ele existe apenas para hospedar os arquivos de release do aplicativo **Instalock Valorant**.
+Este repositório **não contém código-fonte**. Ele existe apenas para hospedar os arquivos de release do aplicativo **Singular Instalock**.
 
 ---
 
@@ -14,8 +14,8 @@ Este repositório **não contém código-fonte**. Ele existe apenas para hospeda
 
 ## Como utilizar
 
-1. Adquira uma key válida para o Instalock Valorant.  
-2. Use o launcher oficial, que gerenciará o download e atualização do aplicativo automaticamente.  
+1. Adquira uma key válida para o Singular.  
+2. Use o launcher oficial (baixado através do comando /instalock no discord), que baixará sempre a ultima versão do app.  
 
 ---
 
