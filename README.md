@@ -1,4 +1,4 @@
-# Instalock Valorant – Releases
+# Singular Instalock – Releases
 
 Este repositório **não contém código-fonte**. Ele existe apenas para hospedar os arquivos de release do aplicativo **Singular Instalock**.
 
